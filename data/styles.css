@@ -67,6 +67,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
 }
 .sticky_1 {
@@ -83,4 +87,14 @@
 .flow_shape {
 }
 .icon {
+}
+._图片 {
+  color:#000000;
+}
+.box_2 {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
